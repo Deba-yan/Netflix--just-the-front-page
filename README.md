@@ -19,9 +19,6 @@ Image/movie slider section
 
 Language changer (English / Hindi style selector)
 
-Responsive layout for different screen sizes
-
-Clean and modern design
 
 📚 What I Learned
 ----
